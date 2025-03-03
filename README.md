@@ -15,8 +15,6 @@ Developed an intelligent calculator that can recognize handwritten equations fro
 - **Libraries**: OpenCV, Tesseract OCR, NumPy, Tkinter (for UI)
 - **Concepts**: Image Processing, Optical Character Recognition (OCR), Machine Learning
 
-## 📷 Screenshots (Add images here if available)
-
 ## 📂 How to Run
 1. Clone the repository.
 2. Install dependencies using `pip install opencv-python pytesseract numpy`.
