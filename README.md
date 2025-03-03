@@ -4,7 +4,6 @@
 Developed an intelligent calculator that can recognize handwritten equations from images, process them, and compute results accurately. The system utilizes Optical Character Recognition (OCR) and machine learning to enhance calculation efficiency.
 
 ## 🔹 Features
-- **Handwritten Equation Recognition**: Uses OCR (Tesseract) to extract text from images.
 - **Real-Time Processing**: Captures equations from live images and processes them instantly.
 - **Mathematical Expression Solver**: Utilizes NumPy for accurate calculations.
 - **User-Friendly Interface**: Simple and intuitive UI for input and results display.
@@ -23,6 +22,7 @@ Developed an intelligent calculator that can recognize handwritten equations fro
 5. View the extracted equation and computed result.
 
 ## 🚀 Future Improvements
+- Handwritten Equation Recognition Uses OCR (Tesseract) to extract text from images.
 - Improve OCR accuracy for handwritten text.
 - Add voice input support for solving equations.
 - Implement a mobile-friendly version for enhanced usability.
